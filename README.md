@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Ethan
-
+# Hi, I'm Ethan
 正在專注學習 **Flutter APP 開發!**  
 目標：能獨立完成漂亮、流暢的行動應用
 
@@ -20,7 +19,7 @@
 ---
 
 ## 我的 GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dethanev&show_icons=true&theme=blueberry)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dethanev&show_icons=true&theme=dart)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dethanev&layout=compact&theme=tokyonight)
 
 ---
