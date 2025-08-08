@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Ethan
 
-<!--
-**Dethanev/Dethanev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+正在專注學習 **Flutter APP 開發!**  
+目標：能獨立完成漂亮、流暢的行動應用
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 近期專案
+- **[Tab2GO_app](https://github.com/Dethanev/Tap2Go_app)**  
+  多分頁切換 + 動態底部導航列的 Flutter App  
+  > Shifting 動畫、背景色變化、PageView 與 BottomNavigationBar 連動
+
+---
+
+## 學習進度
+- Flutter UI 與動畫設計
+- APP 狀態管理與分頁架構
+- Dart 語法與專案最佳化
+
+---
+
+## 📊 我的 GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dethanev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dethanev&layout=compact&theme=tokyonight)
+
+---
+
+📫 與我交流：
+[GitHub](https://github.com/Dethanev) | [Instagram](https://www.instagram.com/fiscal_666/?hl=zh-tw)
+
