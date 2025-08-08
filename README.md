@@ -19,8 +19,8 @@
 
 ---
 
-## 📊 我的 GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dethanev&show_icons=true&theme=tokyonight)
+## 我的 GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dethanev&show_icons=true&theme=blueberry)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dethanev&layout=compact&theme=tokyonight)
 
 ---
