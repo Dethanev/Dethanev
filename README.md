@@ -19,5 +19,5 @@
 ---
 
 歡迎一起交流🙏：
-[GitHub](https://github.com/Dethanev) | [Instagram](https://www.instagram.com/fiscal_666/?hl=zh-tw) | [TG](t.me/Dethanev)
+[GitHub](https://github.com/Dethanev) | [Instagram](https://www.instagram.com/fiscal_666/?hl=zh-tw) | [TG](https://t.me/Dethanev)
 
