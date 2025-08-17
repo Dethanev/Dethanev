@@ -1,13 +1,10 @@
 # 💫 About Me 
 Hi, I'm Ethan 😁 <br>
 I’m a newbie developer just stepping into the tech world.<br>
-
----
 ## Recent Project
 - **Tap2GO_app**  
   A Flutter application with multi-page navigation.  
   *Features: Shifting animation, dynamic background color, and PageView synchronized with BottomNavigationBar*
---
 
 ## ⏱️ Coding Time
 [![wakatime](https://wakatime.com/badge/user/befca022-bf1e-4d10-a1fe-ce2001dfc840.svg)](https://wakatime.com/@befca022-bf1e-4d10-a1fe-ce2001dfc840)
