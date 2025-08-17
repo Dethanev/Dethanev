@@ -13,8 +13,9 @@ Currently focusing on **Flutter mobile app development**.
 - App state management and multi-page architecture  
 - Dart language fundamentals and project optimization  
 
-## ⏱ Coding Time
-[![wakatime](https://wakatime.com/badge/user/Dethanev.svg)](https://wakatime.com/@Dethanev)
+## ⏱️ Coding Time
+[![wakatime](https://wakatime.com/badge/user/befca022-bf1e-4d10-a1fe-ce2001dfc840.svg)](https://wakatime.com/@befca022-bf1e-4d10-a1fe-ce2001dfc840)
+
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 # 📊 GitHub Stats:
