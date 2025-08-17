@@ -1,8 +1,13 @@
-# 💫 About Me:  
-Hi, I'm Ethan 😁  
+# 💫 About Me
+
+## Hi, I'm Ethan 😁
 I’m a newbie developer just stepping into the tech world.  
-Currently focusing on **Flutter mobile app development**.  
-**Goal:** Build fun and smooth mobile applications independently 🚀  
+
+### Currently focusing on
+**Flutter mobile app development**  
+
+### Goal
+Build fun and smooth mobile applications independently 🚀
 ---
 ## Recent Project
 - **Tap2GO_app**  
