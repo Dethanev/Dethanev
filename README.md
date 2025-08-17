@@ -1,9 +1,14 @@
-# 💫 About Me:<br>
-Hi, I'm Ethan 😁  <br>
-<br>I’m a newbie developer just stepping into the tech world.<br>
-Currently focusing on **Flutter mobile app development**.  <br>
-**Goal:** Build fun and smooth mobile applications independently 🚀  <br>
-<br>##  Recent Project<br>- **Tap2GO_app**  <br>  A Flutter application with multi-page navigation.  <br>  > Features: Shifting animation, dynamic background color, and PageView synchronized with BottomNavigationBar  <br><br>##  Learning Progress<br>- Flutter UI and animation design  <br>- App state management and multi-page architecture  <br>- Dart language fundamentals and project optimization   
+# 💫 About Me:
+Hi, I'm Ethan 😁 
+I’m a newbie developer just stepping into the tech world.
+Currently focusing on **Flutter mobile app development**.
+**Goal:** Build fun and smooth mobile applications independently 🚀 
+---
+## Recent Project
+- **Tap2GO_app**  
+  A Flutter application with multi-page navigation.  
+  *Features: Shifting animation, dynamic background color, and PageView synchronized with BottomNavigationBar*
+--
 
 ## ⏱️ Coding Time
 [![wakatime](https://wakatime.com/badge/user/befca022-bf1e-4d10-a1fe-ce2001dfc840.svg)](https://wakatime.com/@befca022-bf1e-4d10-a1fe-ce2001dfc840)
