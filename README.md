@@ -1,24 +1,17 @@
 # Hi, I'm Ethan 😁  
 Just starting my journey in the tech world, and I look forward to connecting with more developers!  
-
 Currently focusing on **Flutter mobile app development**.  
 **Goal:** Build fun and smooth mobile applications independently 🚀  
-
----
 
 ##  Recent Project
 - **Tap2GO_app**  
   A Flutter application with multi-page navigation.  
   > Features: Shifting animation, dynamic background color, and PageView synchronized with BottomNavigationBar  
 
----
-
 ##  Learning Progress
 - Flutter UI and animation design  
 - App state management and multi-page architecture  
 - Dart language fundamentals and project optimization  
-
----
 
 ## ⏱ Coding Time
 ![Coding Time](https://wakatime.com/badge/user/github/ethan.svg)
