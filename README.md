@@ -1,6 +1,7 @@
-<h1> 💫 About Me <h1>
+### 💫 About Me 
 <h2>Hi, I'm Ethan 😁</h2>
 <p>I’m a newbie developer just stepping into the tech world.</p>
+
 ---
 ## Recent Project
 - **Tap2GO_app**  
