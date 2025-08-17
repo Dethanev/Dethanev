@@ -1,6 +1,6 @@
 # 💫 About Me 
-## Hi, I'm Ethan 😁
-<p>I’m a newbie developer just stepping into the tech world.</p>
+Hi, I'm Ethan 😁 <br>
+I’m a newbie developer just stepping into the tech world.<br>
 
 ---
 ## Recent Project
