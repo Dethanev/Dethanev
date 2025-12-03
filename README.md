@@ -22,7 +22,7 @@ I’m a newbie developer just stepping into the tech world.<br>
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dethanev&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![Motto](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Don’t+just+use+apps,+build+them.)
 ---
 [![](https://visitcount.itsvg.in/api?id=Dethanev&icon=0&color=0)](https://visitcount.itsvg.in)
