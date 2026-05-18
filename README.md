@@ -43,15 +43,20 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <br>
 
-## ⏱️ Coding Time
-[![wakatime](https://wakatime.com/badge/user/befca022-bf1e-4d10-a1fe-ce2001dfc840.svg)](https://wakatime.com/@befca022-bf1e-4d10-a1fe-ce2001dfc840)
+## 📈 Development Activity & Stats
 
+### ⏱️ Coding Time
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dethanev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dethanev&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dethanev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dethanev&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" height="350">
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
