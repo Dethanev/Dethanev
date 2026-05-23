@@ -52,18 +52,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2025 - To: 21 May 2026
+From: 16 August 2025 - To: 23 May 2026
 
-Total Time: 146 hrs 59 mins
+Total Time: 149 hrs 38 mins
 
-Java                       40 hrs 37 mins        ██████▓░░░░░░░░░░░░░░░░░░   27.01 %
-Dart                       31 hrs 16 mins        █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
-Markdown                   26 hrs 20 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
-Python                     13 hrs 33 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-Swift                      10 hrs 50 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-Gradle Kotlin DSL          3 hrs 33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Bash                       3 hrs 31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Other                      3 hrs 25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Java                       40 hrs 37 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.50 %
+Dart                       31 hrs 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.40 %
+Markdown                   27 hrs 24 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.87 %
+Python                     13 hrs 33 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+Swift                      11 hrs 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Other                      3 hrs 40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 ```
 
 <!--END_SECTION:waka-->
