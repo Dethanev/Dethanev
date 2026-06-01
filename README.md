@@ -52,12 +52,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2025 - To: 30 May 2026
+From: 16 August 2025 - To: 01 June 2026
 
 Total Time: 151 hrs 47 mins
 
-Java                       41 hrs 43 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.85 %
-Dart                       31 hrs 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.12 %
+Java                       41 hrs 44 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.85 %
+Dart                       31 hrs 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.11 %
 Markdown                   27 hrs 48 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
 Python                     13 hrs 33 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
 Swift                      11 hrs 23 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
