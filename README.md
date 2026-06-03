@@ -6,7 +6,7 @@
 
 <br>
 
-![Motto](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Don’t+just+use+apps,+build+them.)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CE0A&width=650&lines=Code+doesn%E2%80%99t+just+change+systems+%E2%80%94+it+changes+lives.)](https://git.io/typing-svg)
 
 
 </div>
