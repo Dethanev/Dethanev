@@ -52,17 +52,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2025 - To: 09 August 2026
+From: 16 August 2025 - To: 10 August 2026
 
-Total Time: 178 hrs 46 mins
+Total Time: 181 hrs 26 mins
 
-Java                       43 hrs 29 mins        ██████░░░░░░░░░░░░░░░░░░░   23.65 %
-Dart                       31 hrs 41 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
-Markdown                   31 hrs 27 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
-Astro                      16 hrs 27 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-Python                     13 hrs 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
-Swift                      11 hrs 23 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-Other                      5 hrs 7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Java                       43 hrs 29 mins        █████▓░░░░░░░░░░░░░░░░░░░   23.31 %
+Markdown                   32 hrs 39 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.50 %
+Dart                       31 hrs 41 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.98 %
+Astro                      17 hrs 29 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+Python                     13 hrs 33 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+Swift                      11 hrs 23 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+Other                      5 hrs 7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
 
 <!--END_SECTION:waka-->
