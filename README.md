@@ -1,9 +1,5 @@
 <div align="center">
-
-## Hi 👋, I'm Dethanev
-
-**Computer Science Student ｜ Software Developer ｜ Server Administrator**
-
+  
 <img src="profile-card/profile-card.svg" alt="Dethanev Terminal Card" width="100%" />
 
 <br>
